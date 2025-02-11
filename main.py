@@ -35,4 +35,4 @@ def skills(skill):
     return str_candidate
 
 
-apper.run(debug=True)
+apper.run()
